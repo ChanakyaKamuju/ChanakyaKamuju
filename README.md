@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Chanakya Satyasai Kamuju 👋</h1>
-<h3 align="center">AI Full Stack Engineer (MERN)</h3>
+<h3 align="center">AI Full Stack Engineer</h3>
 
 <p align="center">
   Building intelligent AI systems and robust web applications from Hyderabad, Telangana. I specialize in bridging the gap between Generative AI, context engineering, and scalable MERN stack development.
