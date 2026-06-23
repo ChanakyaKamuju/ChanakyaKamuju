@@ -44,8 +44,11 @@
 
 ### 🚀 Featured Projects
 
+* **AI Document Search Agent:** Developed an AI-powered document search agent combining a Python FastAPI backend with a responsive React.js and Tailwind CSS frontend. Integrated Pinecone DB to index high-dimensional vector embeddings, enabling millisecond-latency similarity searches across document contexts. Engineered robust document processing pipelines and conversational memory chains using LangChain to ground LLM responses in user-uploaded PDFs. Optimized backend data ingestion with FastAPI to handle concurrent file processing and seamless chunking/embedding workflows.
 * **SmartSplit - Room Expense Management App:** Built a production-ready MERN web application for shared room/group expense management. Implemented secure JWT authentication, role-based access control, and multiple split algorithms (Equal, Unequal, Percentage) using MongoDB aggregation pipelines.
 
+> **✨ Curious to see more?**  
+> *These highlights are just the beginning. [Dive into my repositories](https://github.com/ChanakyaKamuju?tab=repositories) to explore more custom AI agents, full-stack tools, and experimental builds!*
 ---
 
 ### 🏆 Honors & Awards
