@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills
 
 **AI & Machine Learning**
 ![NLP](https://img.shields.io/badge/NLP-000000?style=flat-square&logo=openai&logoColor=white) 
@@ -34,11 +34,18 @@
 
 ### 💼 Experience
 
-**Senior Software Engineer | Octave India** *(May 2023 - Present)*
-* Developed a production-grade Text-to-SQL platform that converts natural language into optimized SQL queries, reducing manual database querying effort by 80%.
-* Engineered a RAG-based AI Log Analyzer using vector databases and hybrid retrieval to enable intelligent troubleshooting for CRM systems.
-* Built scalable multi-agent AI workflows using LangGraph and orchestrated backend APIs in Node.js and Python.
-* Designed CI/CD pipelines using GitHub Actions for automated lint checks, unit tests, and build validation.
+### Senior Software Engineer — Octave India, Hyderabad, Telangana (May 2023 – Present)
+- Developed a Text-to-SQL application that converts natural language queries into optimized, production-ready SQL, reducing manual database querying by 80%.
+- Enhanced SQL agent intelligence by implementing advanced text parsing to accurately infer database context from simple natural language user queries — connecting SQL databases, extracting schema metadata, and analyzing table relationships for intelligent querying using FastAPI.
+- Developed a ReactJS-based frontend for AI-driven applications to execute LLM-generated SQL queries and render results in real time, improving data accessibility and reducing user query turnaround time by 40%.
+
+### Software Engineer — Octave India, Hyderabad, Telangana (May 2023 – Jan 2026)
+- Played a key role in developing a RAG-based Log Analyzer integrated with a vector database for CRM logs and resolutions, enabling effective self-service error resolution without customer support involvement and reducing user effort by 50%.
+- Implemented scalable data ingestion and preprocessing pipelines integrated with vector databases, enabling hybrid search (semantic + keyword) and reranking for faster, more accurate retrieval in ChromaDB.
+- Built and integrated multiple agentic components across the pipeline to perform query validation, enforce guardrails, and ensure safe, reliable execution.
+- Built an intuitive ReactJS frontend for the RAG-based Log Analyzer that parses log files to surface individual errors, allowing users to select specific errors and retrieve targeted resolutions — improving usability while reducing LLM token consumption by avoiding full log processing.
+- Designed and maintained CI/CD pipelines using GitHub Actions with automated lint checks, unit tests, and build validation for reliable production deployments.
+
 
 ---
 
